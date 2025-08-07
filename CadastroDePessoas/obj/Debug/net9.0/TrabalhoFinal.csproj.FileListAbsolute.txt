@@ -1,0 +1,14 @@
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0\TrabalhoFinal.exe
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0\TrabalhoFinal.deps.json
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0\TrabalhoFinal.runtimeconfig.json
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0\TrabalhoFinal.dll
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\bin\Debug\net9.0\TrabalhoFinal.pdb
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\TrabalhoFinal.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\TrabalhoFinal.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\TrabalhoFinal.dll
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\refint\TrabalhoFinal.dll
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\TrabalhoFinal.pdb
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\TrabalhoFinal.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Desktop\ATP\TrabalhoFinal\TrabalhoFinal\obj\Debug\net9.0\ref\TrabalhoFinal.dll
